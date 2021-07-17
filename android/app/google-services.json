@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318048239930",
+    "project_id": "anwar-8a083",
+    "storage_bucket": "anwar-8a083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318048239930:android:4529bd043a56b381655003",
+        "android_client_info": {
+          "package_name": "com.osamaM.anwaralquds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318048239930-vrifgh3o8vobuamattrdmqqoqk5gc64c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osamaM.anwaralquds",
+            "certificate_hash": "f93d21d45488f899c914267ac7265b4586055d51"
+          }
+        },
+        {
+          "client_id": "318048239930-8rbg6hht3b08iu7e9dmpuv7k1ttukr2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBufy_d44qu337gAdBM_8ANVSvqEg76Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318048239930-8rbg6hht3b08iu7e9dmpuv7k1ttukr2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
